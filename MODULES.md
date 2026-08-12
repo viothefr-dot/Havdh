@@ -1,0 +1,138 @@
+# Nyx Client V4 Module Catalog
+
+This build registers **134 uniquely named modules**. High-risk automation entries are extension stubs; they intentionally do not implement anti-cheat evasion or packet spoofing.
+
+- Auto Totem
+- Auto Crystal
+- Auto Hit Crystal
+- Crystal Aura
+- Crystal Place
+- Crystal Break
+- Crystal Damage
+- Crystal Prediction
+- Crystal Optimizer
+- Crystal Target
+- Double Anchor
+- Anchor Aura
+- Anchor Macro
+- Auto Anchor
+- Auto Mace
+- Mace Swap
+- Auto Hit
+- TriggerBot
+- Aim Assist
+- Auto Pot
+- Pot Cheats
+- NethPot
+- Auto Web
+- Auto XP
+- XP Macro
+- Auto Bed
+- Auto Obsidian
+- Auto Trap
+- Hole Fill
+- Burrow Break
+- Surround
+- Anti Surround
+- Shield Disabler
+- Weapon Switch
+- Smart Weapon
+- Criticals
+- Hitboxes
+- Target HUD
+- Target Selector
+- Enemy Priority
+- Self Damage Protection
+- Friend System
+- Freecam
+- Hover Totem
+- KeyPearl
+- Auto Eat
+- Auto Armor
+- Inventory Move
+- Fast Place
+- No Bounce
+- Jump Reset
+- Sprint
+- Anti Web
+- Elytra Helper
+- Item Swap
+- Inventory Manager
+- Chest Stealer
+- Auto Refill
+- Auto Tool
+- Auto Respawn
+- Auto GG
+- Name Hider
+- Step
+- Safe Walk
+- Speed
+- Long Jump
+- Strafe
+- No Slow
+- Jump Assist
+- Movement Correction
+- Auto Jump
+- Boat Fly
+- Elytra Control
+- Velocity Controls
+- ESP
+- Player ESP
+- Storage ESP
+- Block ESP
+- Amethyst ESP
+- Name Tags
+- Glow
+- Tracers
+- Item ESP
+- Entity ESP
+- Hole ESP
+- Crystal ESP
+- Chunk Finder
+- Fullbright
+- Freecam Render
+- Target ESP
+- Damage Indicator
+- Skeleton ESP
+- Waypoints
+- Breadcrumbs
+- Block Overlay
+- Search
+- Camera Tweaks
+- Growth Finder
+- Spawner Protect
+- Block Finder
+- Ore ESP
+- Structure Finder
+- Container Finder
+- Portal Finder
+- Hole Finder
+- Auto Build
+- Scaffold Helper
+- World Scanner
+- Coordinates
+- Watermark
+- ArrayList
+- FPS
+- CPS
+- Ping
+- Armor HUD
+- Potion HUD
+- Target HUD
+- Totem Counter
+- Inventory HUD
+- Keybind HUD
+- Combat HUD
+- Server Info
+- Speed Display
+- Session Info
+- Notifications
+- Crosshair
+- Keystrokes
+- Developer Test Mode
+- Friend List
+- Chat Timestamps
+- Server Info Debug
+- Theme Editor
+- Config Manager
+- Performance
