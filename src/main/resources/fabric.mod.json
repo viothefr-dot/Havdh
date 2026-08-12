@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "nyxclient",
+  "version": "${version}",
+  "name": "Nyx Client V4",
+  "description": "High-performance client-side Fabric framework with a modern Click GUI, themes, HUD, configuration profiles and developer/test tooling.",
+  "authors": ["Nyx Client V4"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "dev.nyxclient.NyxClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.4",
+    "minecraft": "1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

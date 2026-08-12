@@ -1,0 +1,1 @@
+Add a 128x128 PNG at assets/nyxclient/icon.png to replace the optional placeholder icon.
